@@ -55,36 +55,15 @@ The admin page is used to modify all tables such as Students, Teachers, Departme
 
 ### Teacher Page
 
-![alt text](https://imgur.com/pMAoEbG.png)
+![1](https://github.com/shreyakjr10/Shreyak-1-_cms/assets/96543077/52dacd57-57f4-4dee-ae14-24cc20bb24af)
 
-![alt text](https://imgur.com/ZiQ3RRA.png)
-
-![alt text](https://imgur.com/i025CJW.png)
-
-![alt text](https://imgur.com/HQlLYmC.png)
-
-![alt text](https://imgur.com/j6RyBmU.png)
-
-![alt text](https://imgur.com/xIKEMvQ.png)
-
-![alt text](https://imgur.com/4Rl7Fpv.png)
 
 ### Student Page
+![2](https://github.com/shreyakjr10/Shreyak-1-_cms/assets/96543077/81437b53-1c50-43e3-8d30-30000108984d)
 
-![alt text](https://imgur.com/isL9cjz.png)
 
-![alt text](https://imgur.com/5pzl7m3.png)
-
-![alt text](https://imgur.com/7zWhHZx.png)
-
-![alt text](https://imgur.com/fu7gxk8.png)
-
-![alt text](https://imgur.com/NZqU268.png)
 
 ### Admin Page
 
-![alt text](https://imgur.com/sDvDc9N.png)
+![image](https://github.com/shreyakjr10/Shreyak-1-_cms/assets/96543077/cd23ab58-2c03-49da-83ae-4558d28d3211)
 
-![alt text](https://imgur.com/tMKWx6f.png)
-
-![alt text](https://imgur.com/PvCsNeB.png)
